@@ -37,3 +37,4 @@ The full case can be found at The Case Centre: https://www.thecasecentre.org/pro
 
 ## 🎯 Objective
 - Determine whether the cash flow savings from deferred duty payments justify the additional storage costs.
+- The solution should entail a monthly storage schedule for each individual product so that the total investment profit minus CCBW storage costs is maximized.
